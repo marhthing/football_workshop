@@ -1,7 +1,7 @@
 # football_workshop
 A workshop on data from English women's football
 
-Use the data in [this repository](https://github.com/probjects/ewf-database): just download the data -- you don't need to anything more with that repository.
+Use the data in [this repository](https://github.com/probjects/ewf-database). Just download the data -- you don't need to anything more with that repository.
 
 Now produce a [streamlit app](https://share.streamlit.io/explore?sort=most+viewed&category=favorites) to show some aspect of the data to the user. Install [the package](https://docs.streamlit.io/get-started/installation) and start with something very simple like displaying the data, or a simple chart. It should first run locally and then you can put its files on your own github repository and run it from there.
 
